@@ -1,0 +1,10 @@
+/home/zee/Documents/rust_class/get_request/target/debug/deps/liberror_chain-cc540582e3d6fc66.rmeta: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/impl_error_chain_kind.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/error_chain.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/quick_main.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/backtrace.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/example_generated.rs
+
+/home/zee/Documents/rust_class/get_request/target/debug/deps/error_chain-cc540582e3d6fc66.d: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/impl_error_chain_kind.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/error_chain.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/quick_main.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/backtrace.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/example_generated.rs
+
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/lib.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/impl_error_chain_kind.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/error_chain.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/quick_main.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/backtrace.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/error-chain-0.12.4/src/example_generated.rs:
